@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "F:\\Project\\app\\ff4e0978-a19d-4f14-a387-1e31be58f084\\sandbox-smiledemo\\app\\build\\intermediates\\incremental\\mergeDebugAndroidTestResources\\merged.dir\\values-h720dp-v13\\values-h720dp-v13.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\ASUS\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\359895bff845312a2fc0b911c05f5133\\res\\values-h720dp-v13\\values-h720dp-v13.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "66",
+                        "endOffsets": "117"
+                    }
+                }
+            ]
+        }
+    ]
+}

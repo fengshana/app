@@ -1,0 +1,4 @@
+#Tue Oct 22 20:58:03 CST 2019
+base.0=F\:\\Project\\app\\ff4e0978-a19d-4f14-a387-1e31be58f084\\sandbox-smiledemo\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\9
+path.0=classes.dex
+renamed.0=classes.dex

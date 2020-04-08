@@ -1,0 +1,36 @@
+{
+    "logs": [
+        {
+            "outputFile": "F:\\Project\\app\\ff4e0978-a19d-4f14-a387-1e31be58f084\\sandbox-smiledemo\\app\\build\\intermediates\\incremental\\mergeDebugAndroidTestResources\\merged.dir\\values-v24\\values-v24.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\ASUS\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-26.1.0.aar\\56dae64bb30b3072c180aa99af63b105\\res\\values-v24\\values-v24.xml",
+                    "from": {
+                        "startLines": "2,3,4,5",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,121,182,248",
+                        "endColumns": "65,60,65,66",
+                        "endOffsets": "116,177,243,310"
+                    },
+                    "to": {
+                        "startLines": "8,9,10,11",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "619,685,746,812",
+                        "endColumns": "65,60,65,66",
+                        "endOffsets": "680,741,807,874"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\ASUS\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\359895bff845312a2fc0b911c05f5133\\res\\values-v24\\values-v24.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7",
+                        "startColumns": "4,4,4,4,4,4",
+                        "startOffsets": "55,212,347,416,480,549",
+                        "endColumns": "156,134,68,63,68,69",
+                        "endOffsets": "207,342,411,475,544,614"
+                    }
+                }
+            ]
+        }
+    ]
+}
